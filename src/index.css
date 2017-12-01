@@ -2,4 +2,14 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background: #C0C0C0;
 }
+.the-table{
+	background: #C0C0C0;
+	border-radius: 10px;
+}
+.the-pot{
+	color: whitesmoke;
+}
+
+
